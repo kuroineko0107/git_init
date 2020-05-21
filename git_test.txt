@@ -1,2 +1,4 @@
 git practice
 基本的なフローを学ぶ。
+/git add
+/git commit
